@@ -36,7 +36,7 @@ You can refer to **mmsegmentation document** (https://mmsegmentation.readthedocs
 COMPARISONS OF DETECTION PERFORMANCE ON LEVIR-CD DATASET
 | Model | Backbone | OA | IoU | F1 | Prec | Rec |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| BIT | Resnet18 | 98.92 | 80.66 | 89.29 | 90/56 |  88.06 | 
+| BIT | Resnet18 | 98.92 | 80.66 | 89.29 | 90.56 |  88.06 | 
 
 | Dataset | Crop Size | Lr Schd | mIoU | #params(Mb) | FLOPs(Gbps) | config | log |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
