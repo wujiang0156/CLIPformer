@@ -13,7 +13,9 @@ In this work, we propose a new change detection framework, CLIPFormer, which lev
 
 ## Pretrained Weights of Backbones
 
-[pretrain](https://download.openmmlab.com/mmsegmentation/)
+[CLIP pretrain](https://github.com/OpenAI/CLIP)
+[Swin Trnasformer pretrain](https://download.openmmlab.com/mmsegmentation/)
+
 
 ## Data Preprocessing
 
