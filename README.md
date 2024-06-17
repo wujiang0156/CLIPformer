@@ -13,17 +13,29 @@ In this work, we propose a new change detection framework, CLIPFormer, which lev
 
 ## Pretrained Weights of Backbones
 
-[pretrain](https://download.openmmlab.com/mmsegmentation/v0.5/pretrain/segnext/mscan_s_20230227-f33ccdf2.pth)
+[pretrain](https://download.openmmlab.com/mmsegmentation/)
 
 ## Data Preprocessing
 
 Download the datasets from the official website and split them yourself.
 
-**Potsdam and Vaihingen**
-[Potsdam and Vaihingen](https://www.isprs.org/education/benchmarks/UrbanSemLab/2d-sem-label-vaihingen.aspx)
 
-**LoveDA**
-[LoveDA](https://github.com/Junjue-Wang/LoveDA)
+
+**LEVIR-CD**
+[LEVIR-CD]()
+
+**LEVIR-CD+**
+[LEVIR-CD+]()
+
+**WHUCD**
+[WHUCD]()
+
+**CDD**
+[CDD]()
+
+**SYSU-CD**
+[SYSU-CD]()
+
 
 ## Training
 
