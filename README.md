@@ -24,19 +24,19 @@ Download the datasets from the official website and split them yourself.
 
 
 **LEVIR-CD**
-[LEVIR-CD](https://drive.google.com/drive/folders/1dLuzldMRmbBNKPpUkX8Z53hi6NHLrWim)
+[LEVIR-CD](https://justchenhao.github.io/LEVIR/)
 
 **LEVIR-CD+**
-[LEVIR-CD+]()
+[LEVIR-CD+](https://github.com/S2Looking/Dataset)
 
 **WHUCD**
-[WHUCD](https://paperswithcode.com/dataset/whu-building-dataset)
+[WHUCD](https://study.rsgis.whu.edu.cn/pages/download/building_dataset.html)
 
 **CDD**
 [CDD](https://paperswithcode.com/sota/change-detection-for-remote-sensing-images-on)
 
 **SYSU-CD**
-[SYSU-CD]()
+[SYSU-CD](https://github.com/liumency/SYSU-CD)
 
 
 ## Training
