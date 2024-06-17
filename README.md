@@ -89,5 +89,8 @@ COMPARISONS OF DETECTION PERFORMANCE ON SYSU-CD DATASET.
 
  Many thanks the following projects's contributions to **MACT-UNet**.
 - [mmsegmentation](https://github.com/open-mmlab/mmsegmentation)
-- [mmsegmentation](https://github.com/raoyongming/DenseCLIP)
+- [DenseCLIP](https://github.com/raoyongming/DenseCLIP)
 - [CLIP](https://github.com/OpenAI/CLIP)
+- [ChangeCLIP](https://github.com/dyzy41/ChangeCLIP)
+
+- 
