@@ -77,7 +77,7 @@ COMPARISONS OF DETECTION PERFORMANCE ON SYSU-CD DATASET.
 | CLIPformer(ViT-B/16) | Swin-T | 99.62 | 71.77 | 83.57 | 88.02 |  79.54 | 
 
 ## Inference on High-resolution remote sensing image
-
+For detailed qualitative analysis and visualization results on the LEVIR-CD, LEVIR-CD+, WHUCD, CDD, and SYSU-CD datasets, please refer to our paper.
 <div>
 <img src="XXX.jpg" width="100%"/>
 <img src="XXX.jpg" width="100%"/>
