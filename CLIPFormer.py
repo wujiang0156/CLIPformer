@@ -154,7 +154,8 @@ class CLIPFormer(BaseSegmentor):
                     kernel_size=1)
                     )
         self.channel_att = nn.Sequential(SELayer(768, 256), SELayer(768, 256), SELayer(768, 256), SELayer(768, 256))
-
+        # self.channel_att = nn.Sequential(SELayer(256, 256), SELayer(256, 256), SELayer(256, 256), SELayer(256, 256))
+        
         self.embedding_dim = text_dim // 2
         self._init_optimal_dist()
 
