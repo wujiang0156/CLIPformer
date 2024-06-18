@@ -49,33 +49,33 @@ Here we only present the test results of our model. For detailed test results, p
 **We will provide the log files later.**
 ### TABLE I
 COMPARISONS OF DETECTION PERFORMANCE ON LEVIR-CD DATASET
-| Model | Backbone | OA | IoU | F1 | Prec | Rec |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| CLIPformer(ViT-B/16) | Swin-T | 99.22 | 85.60 | 92.24 | 93.60 |  90.92 | 
+| Model | Backbone | OA | IoU | F1 | Prec | Rec | log |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| CLIPformer(ViT-B/16) | Swin-T | 99.22 | 85.60 | 92.24 | 93.60 |  90.92 | [log](https://github.com/wujiang0156/CLIPformer) |
 
 ### TABLE II
 COMPARISONS OF DETECTION PERFORMANCE ON LEVIR-CD+ DATASET
-| Model | Backbone | OA | IoU | F1 | Prec | Rec |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| CLIPformer(ViT-B/16) | Swin-T | 98.87 | 76.81 | 86.89 | 88.51 |  85.32 | 
+| Model | Backbone | OA | IoU | F1 | Prec | Rec | log |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| CLIPformer(ViT-B/16) | Swin-T | 98.87 | 76.81 | 86.89 | 88.51 |  85.32 | [log](https://github.com/wujiang0156/CLIPformer) | 
 
 ### TABLE III
 COMPARISONS OF DETECTION PERFORMANCE ON WHUCD DATASET
-| Model | Backbone | OA | IoU | F1 | Prec | Rec |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| CLIPformer(ViT-B/16) | Swin-T | 99.54 | 89.55 | 94.49 | 96.38 |  92.66 | 
+| Model | Backbone | OA | IoU | F1 | Prec | Rec | log |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| CLIPformer(ViT-B/16) | Swin-T | 99.54 | 89.55 | 94.49 | 96.38 |  92.66 | [log](https://github.com/wujiang0156/CLIPformer) | 
 
 ### TABLE IV
 COMPARISONS OF DETECTION PERFORMANCE ON CDD DATASET
-| Model | Backbone | OA | IoU | F1 | Prec | Rec |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| CLIPformer(ViT-B/16) | Swin-T | 99.33 | 94.51 | 97.18 | 97.03 |  97.32 | 
+| Model | Backbone | OA | IoU | F1 | Prec | Rec | log |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| CLIPformer(ViT-B/16) | Swin-T | 99.33 | 94.51 | 97.18 | 97.03 |  97.32 | [log](https://github.com/wujiang0156/CLIPformer) | 
 
 ### TABLE V
 COMPARISONS OF DETECTION PERFORMANCE ON SYSU-CD DATASET.
-| Model | Backbone | OA | IoU | F1 | Prec | Rec |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| CLIPformer(ViT-B/16) | Swin-T | 99.62 | 71.77 | 83.57 | 88.02 |  79.54 | 
+| Model | Backbone | OA | IoU | F1 | Prec | Rec | log |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| CLIPformer(ViT-B/16) | Swin-T | 99.62 | 71.77 | 83.57 | 88.02 |  79.54 | [log](https://github.com/wujiang0156/CLIPformer) | 
 
 ## Inference on High-resolution remote sensing image
 For detailed qualitative analysis and visualization results on the LEVIR-CD, LEVIR-CD+, WHUCD, CDD, and SYSU-CD datasets, please refer to our paper.
@@ -94,5 +94,3 @@ For detailed qualitative analysis and visualization results on the LEVIR-CD, LEV
 - [DenseCLIP](https://github.com/raoyongming/DenseCLIP)
 - [CLIP](https://github.com/OpenAI/CLIP)
 - [ChangeCLIP](https://github.com/dyzy41/ChangeCLIP)
-
-- 
