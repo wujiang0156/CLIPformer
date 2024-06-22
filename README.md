@@ -78,7 +78,7 @@ COMPARISONS OF DETECTION PERFORMANCE ON SYSU-CD DATASET.
 | CLIPformer(ViT-B/16) | Swin-T | 99.62 | 71.77 | 83.57 | 88.02 |  79.54 | [log](https://github.com/wujiang0156/CLIPformer/blob/main/log/20240602_084845.log) | 
 
 ## Visualization on remote sensing change detection datasets
-For detailed qualitative analysis and visualization results on the LEVIR-CD, LEVIR-CD+, WHUCD, CDD, and SYSU-CD datasets, please refer to our paper.
+Here we present the visualization results on the LEVIR-CD dataset. For detailed qualitative analysis and visualization results on other datasets (LEVIR-CD+, WHUCD, CDD, and SYSU-CD), please refer to our paper.
 <div>
 <img src="https://github.com/wujiang0156/CLIPformer/blob/main/fig/fig%203%20levir.jpg" width="100%"/>
 </div>
