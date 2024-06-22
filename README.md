@@ -80,11 +80,7 @@ COMPARISONS OF DETECTION PERFORMANCE ON SYSU-CD DATASET.
 ## Visualization on remote sensing change detection datasets
 For detailed qualitative analysis and visualization results on the LEVIR-CD, LEVIR-CD+, WHUCD, CDD, and SYSU-CD datasets, please refer to our paper.
 <div>
-<img src="XXX.jpg" width="100%"/>
-<img src="XXX.jpg" width="100%"/>
-<img src="XXX.jpg" width="100%"/>
-<img src="XXX.jpg" width="100%"/>
- <img src="XXX.jpg" width="100%"/>
+<img src="https://github.com/wujiang0156/CLIPformer/blob/main/fig/fig%203%20levir.jpg" width="100%"/>
 </div>
 
 ## Acknowledgement
