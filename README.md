@@ -51,13 +51,13 @@ Here we only present the test results of our model. For detailed test results, p
 COMPARISONS OF DETECTION PERFORMANCE ON LEVIR-CD DATASET
 | Model | Backbone | OA | IoU | F1 | Prec | Rec | log |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| CLIPformer(ViT-B/16) | Swin-T | 99.22 | 85.60 | 92.24 | 93.60 |  90.92 | [LOG](https://github.com/wujiang0156/CLIPformer/blob/main/log/20240413_094938.log) |
+| CLIPformer(ViT-B/16) | Swin-T | 99.22 | 85.60 | 92.24 | 93.60 |  90.92 | [log](https://github.com/wujiang0156/CLIPformer/blob/main/log/20240413_094938.log) |
 
 ### TABLE II
 COMPARISONS OF DETECTION PERFORMANCE ON LEVIR-CD+ DATASET
 | Model | Backbone | OA | IoU | F1 | Prec | Rec | log |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| CLIPformer(RN50) | Swin-T | 98.87 | 76.81 | 86.89 | 88.51 |  85.32 | [lOG](https://github.com/wujiang0156/CLIPformer/blob/main/log/20240414_161022.log) | 
+| CLIPformer(RN50) | Swin-T | 98.87 | 76.81 | 86.89 | 88.51 |  85.32 | [log](https://github.com/wujiang0156/CLIPformer/blob/main/log/20240414_161022.log) | 
 
 ### TABLE III
 COMPARISONS OF DETECTION PERFORMANCE ON WHUCD DATASET
