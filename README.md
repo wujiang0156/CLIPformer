@@ -46,7 +46,7 @@ You can refer to **mmsegmentation document** (https://mmsegmentation.readthedocs
 
 ## Results and Logs for CLIPformer
 Here we only present the test results of our model. For detailed test results, please refer to our paper.
-**We will provide the log files later.**
+
 ### TABLE I
 COMPARISONS OF DETECTION PERFORMANCE ON LEVIR-CD DATASET
 | Model | Backbone | OA | IoU | F1 | Prec | Rec | log |
