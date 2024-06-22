@@ -8,7 +8,7 @@ In this work, we propose a new change detection framework, CLIPFormer, which lev
  
 ## Install
 - First, you need to download mmsegmentation and install it on your server.
-- Second, place clipformer.py, swinclip and cswin_text_head.py in the corresponding directory of mmsegmentation.
+- Second, Place clipformer.py, swinclip, cswin_text_head.py, and other .py files in the corresponding directory of mmsegmentation..
 - Third, train according to the training strategy of mmsegmentation and the training parameters in our paper.
 
 ## Pretrained Weights of Backbones
