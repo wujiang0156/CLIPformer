@@ -57,7 +57,7 @@ COMPARISONS OF DETECTION PERFORMANCE ON LEVIR-CD DATASET
 COMPARISONS OF DETECTION PERFORMANCE ON LEVIR-CD+ DATASET
 | Model | Backbone | OA | IoU | F1 | Prec | Rec | log |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| CLIPformer(ViT-B/16) | Swin-T | 98.87 | 76.81 | 86.89 | 88.51 |  85.32 | [log](https://github.com/wujiang0156/CLIPformer/blob/main/log/20240414_161022.log) | 
+| CLIPformer(RN50) | Swin-T | 98.87 | 76.81 | 86.89 | 88.51 |  85.32 | [log](https://github.com/wujiang0156/CLIPformer/blob/main/log/20240414_161022.log) | 
 
 ### TABLE III
 COMPARISONS OF DETECTION PERFORMANCE ON WHUCD DATASET
@@ -69,7 +69,7 @@ COMPARISONS OF DETECTION PERFORMANCE ON WHUCD DATASET
 COMPARISONS OF DETECTION PERFORMANCE ON CDD DATASET
 | Model | Backbone | OA | IoU | F1 | Prec | Rec | log |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| CLIPformer(ViT-B/16) | Swin-T | 99.33 | 94.51 | 97.18 | 97.03 |  97.32 | [log](https://github.com/wujiang0156/CLIPformer/blob/main/log/20240416_221124.log) | 
+| CLIPformer(RN50) | Swin-T | 99.33 | 94.51 | 97.18 | 97.03 |  97.32 | [log](https://github.com/wujiang0156/CLIPformer/blob/main/log/20240416_221124.log) | 
 
 ### TABLE V
 COMPARISONS OF DETECTION PERFORMANCE ON SYSU-CD DATASET.
