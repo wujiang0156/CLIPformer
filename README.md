@@ -57,25 +57,25 @@ COMPARISONS OF DETECTION PERFORMANCE ON LEVIR-CD DATASET
 COMPARISONS OF DETECTION PERFORMANCE ON LEVIR-CD+ DATASET
 | Model | Backbone | OA | IoU | F1 | Prec | Rec | log |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| CLIPformer(ViT-B/16) | Swin-T | 98.87 | 76.81 | 86.89 | 88.51 |  85.32 | [log](https://github.com/wujiang0156/CLIPformer) | 
+| CLIPformer(ViT-B/16) | Swin-T | 98.87 | 76.81 | 86.89 | 88.51 |  85.32 | [log](https://github.com/wujiang0156/CLIPformer/blob/main/log/20240414_161022.log) | 
 
 ### TABLE III
 COMPARISONS OF DETECTION PERFORMANCE ON WHUCD DATASET
 | Model | Backbone | OA | IoU | F1 | Prec | Rec | log |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| CLIPformer(ViT-B/16) | Swin-T | 99.54 | 89.55 | 94.49 | 96.38 |  92.66 | [log](https://github.com/wujiang0156/CLIPformer) | 
+| CLIPformer(ViT-B/16) | Swin-T | 99.54 | 89.55 | 94.49 | 96.38 |  92.66 | [log](https://github.com/wujiang0156/CLIPformer/blob/main/log/20240418_065021.log) | 
 
 ### TABLE IV
 COMPARISONS OF DETECTION PERFORMANCE ON CDD DATASET
 | Model | Backbone | OA | IoU | F1 | Prec | Rec | log |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| CLIPformer(ViT-B/16) | Swin-T | 99.33 | 94.51 | 97.18 | 97.03 |  97.32 | [log](https://github.com/wujiang0156/CLIPformer) | 
+| CLIPformer(ViT-B/16) | Swin-T | 99.33 | 94.51 | 97.18 | 97.03 |  97.32 | [log](https://github.com/wujiang0156/CLIPformer/blob/main/log/20240416_221124.log) | 
 
 ### TABLE V
 COMPARISONS OF DETECTION PERFORMANCE ON SYSU-CD DATASET.
 | Model | Backbone | OA | IoU | F1 | Prec | Rec | log |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| CLIPformer(ViT-B/16) | Swin-T | 99.62 | 71.77 | 83.57 | 88.02 |  79.54 | [log](https://github.com/wujiang0156/CLIPformer) | 
+| CLIPformer(ViT-B/16) | Swin-T | 99.62 | 71.77 | 83.57 | 88.02 |  79.54 | [log](https://github.com/wujiang0156/CLIPformer/blob/main/log/20240602_084845.log) | 
 
 ## Visualization on remote sensing change detection datasets
 For detailed qualitative analysis and visualization results on the LEVIR-CD, LEVIR-CD+, WHUCD, CDD, and SYSU-CD datasets, please refer to our paper.
